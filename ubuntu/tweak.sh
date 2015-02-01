@@ -20,4 +20,6 @@ sudo -H subl /etc/systemd/logind.conf
 #make the required changes, i added this line -> HandleLidSwitch=ignore
 sudo restart systemd-logind
 
+sudo apt-get update
+sudo apt-get install clementine
 #http://askubuntu.com/questions/456072/clementine-wont-play-wma-with-your-gstreamer-installation-is-missing-a-plugi
