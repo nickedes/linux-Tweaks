@@ -23,3 +23,9 @@ sudo restart systemd-logind
 sudo apt-get update
 sudo apt-get install clementine
 #http://askubuntu.com/questions/456072/clementine-wont-play-wma-with-your-gstreamer-installation-is-missing-a-plugi
+sudo apt-get update
+sudo apt-get install gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
+#for wma suport
+sudo apt-add-repository ppa:mc3man/trusty-media
+sudo apt-get update
+sudo apt-get install gstreamer0.10-ffmpeg
