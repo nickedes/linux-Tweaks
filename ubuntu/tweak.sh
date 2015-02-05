@@ -29,3 +29,8 @@ sudo apt-get install gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreame
 sudo apt-add-repository ppa:mc3man/trusty-media
 sudo apt-get update
 sudo apt-get install gstreamer0.10-ffmpeg
+
+#fish-shell
+sudo add-apt-repository ppa:fish-shell/nightly-master
+sudo apt-get update
+sudo apt-get install fish
