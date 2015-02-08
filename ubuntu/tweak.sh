@@ -34,3 +34,8 @@ sudo apt-get install gstreamer0.10-ffmpeg
 sudo add-apt-repository ppa:fish-shell/nightly-master
 sudo apt-get update
 sudo apt-get install fish
+
+sudo apt-get install g++
+#osdlyrics-for displaying lyrics
+sudo apt-get update
+sudo apt-get install osdlyrics
