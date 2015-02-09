@@ -38,4 +38,9 @@ sudo apt-get install fish
 sudo apt-get install g++
 #osdlyrics-for displaying lyrics
 sudo apt-get update
-sudo apt-get install osdlyrics
+sudo apt-get install osdlyrics 
+
+#pidgin
+sudo add-apt-repository ppa:pidgin-developers/ppa
+sudo apt-get update
+sudo apt-get install pidgin
