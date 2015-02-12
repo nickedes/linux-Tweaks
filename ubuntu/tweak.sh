@@ -57,3 +57,8 @@ indicator-netspeed &
 sudo add-apt-repository ppa:nilarimogard/webupd8
 sudo apt-get update
 sudo apt-get install youtube-dl
+
+#nemo
+sudo add-apt-repository ppa:webupd8team/nemo
+sudo apt-get update
+sudo apt-get install nemo nemo-fileroller
