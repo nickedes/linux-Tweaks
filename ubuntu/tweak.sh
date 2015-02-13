@@ -62,3 +62,8 @@ sudo apt-get install youtube-dl
 sudo add-apt-repository ppa:webupd8team/nemo
 sudo apt-get update
 sudo apt-get install nemo nemo-fileroller
+
+#Terminator
+sudo add-apt-repository ppa:gnome-terminator
+sudo apt-get update
+sudo apt-get install terminator
