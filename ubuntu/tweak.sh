@@ -67,3 +67,6 @@ sudo apt-get install nemo nemo-fileroller
 sudo add-apt-repository ppa:gnome-terminator
 sudo apt-get update
 sudo apt-get install terminator
+
+#ranger
+sudo apt-get install ranger
