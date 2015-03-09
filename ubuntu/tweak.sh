@@ -70,3 +70,6 @@ sudo apt-get install terminator
 
 #ranger
 sudo apt-get install ranger
+
+#R-programming language
+sudo apt-get install r-base r-base-dev
