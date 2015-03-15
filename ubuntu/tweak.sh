@@ -78,3 +78,6 @@ sudo apt-get install r-base r-base-dev
 sudo apt-get install nasm
 
 #java
+sudo apt-get update
+sudo apt-get install default-jre
+sudo apt-get install default-jdk
