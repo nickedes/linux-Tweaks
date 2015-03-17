@@ -81,3 +81,8 @@ sudo apt-get install nasm
 sudo apt-get update
 sudo apt-get install default-jre
 sudo apt-get install default-jdk
+
+#Xonsh shell
+git clone https://github.com/scopatz/xonsh
+cd xonsh
+python3 setup.py install
