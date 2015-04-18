@@ -86,3 +86,6 @@ sudo apt-get install default-jdk
 git clone https://github.com/scopatz/xonsh
 cd xonsh
 python3 setup.py install
+
+#Redshift
+sudo apt-get install redshift
