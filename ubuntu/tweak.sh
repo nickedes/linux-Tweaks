@@ -89,3 +89,6 @@ python3 setup.py install
 
 #Redshift
 sudo apt-get install redshift
+
+sudo apt-get install bleachbit
+sudo apt-get install catfish
