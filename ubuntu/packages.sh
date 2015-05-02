@@ -94,4 +94,4 @@ sudo apt-get install bleachbit
 sudo apt-get install catfish
 
 #Musicbrainz-Picard
-sudo apt-get install picard;
+sudo apt-get install picard
