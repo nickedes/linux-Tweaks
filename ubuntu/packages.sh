@@ -95,3 +95,6 @@ sudo apt-get install catfish
 
 #Musicbrainz-Picard
 sudo apt-get install picard
+
+sudo apt-get install firefox
+sudo apt-get install golang
