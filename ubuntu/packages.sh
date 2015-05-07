@@ -89,7 +89,7 @@ python3 setup.py install
 
 #Redshift
 sudo apt-get install redshift
-
+sudo apt-get install redshift-gtk
 sudo apt-get install bleachbit
 sudo apt-get install catfish
 
@@ -98,3 +98,5 @@ sudo apt-get install picard
 
 sudo apt-get install firefox
 sudo apt-get install golang
+
+sudo apt-get install unity-tweak-tool
