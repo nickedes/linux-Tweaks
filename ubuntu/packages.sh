@@ -100,3 +100,5 @@ sudo apt-get install firefox
 sudo apt-get install golang
 
 sudo apt-get install unity-tweak-tool
+sudo apt-get install sqlite3
+sudo apt-get install screen
