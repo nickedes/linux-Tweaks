@@ -102,3 +102,8 @@ sudo apt-get install golang
 sudo apt-get install unity-tweak-tool
 sudo apt-get install sqlite3
 sudo apt-get install screen
+
+#ZNC
+sudo apt-get install software-properties-common python-software-properties
+sudo apt-get update
+sudo apt-get install znc znc-dbg znc-dev znc-perl znc-python znc-tcl
