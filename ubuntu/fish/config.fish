@@ -17,3 +17,8 @@ set fish_plugins theme
 
 alias ytb "youtube-dl -c -i -w"
 alias r "ranger"
+alias ga "git add ."
+alias gc "git commit "
+alias gchm="git checkout master"
+alias gp="git push"
+alias gpl="git pull"
