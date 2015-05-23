@@ -112,5 +112,3 @@ sudo apt-get install tig
 
 #dhcp
 sudo apt-get install isc-dhcp-server
-#smtp
-sudo apt-get install postfix mailutils libsasl2-2 ca-certificates libsasl2-modules
