@@ -107,3 +107,5 @@ sudo apt-get install screen
 sudo apt-get install software-properties-common python-software-properties
 sudo apt-get update
 sudo apt-get install znc znc-dbg znc-dev znc-perl znc-python znc-tcl
+
+sudo apt-get install tig
