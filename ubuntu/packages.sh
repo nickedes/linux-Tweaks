@@ -116,3 +116,6 @@ sudo apt-get install isc-dhcp-server
 sudo apt-get install postfix mailutils libsasl2-2 ca-certificates libsasl2-modules
 # zsh
 sudo apt-get install zsh-doc;
+
+sudo apt-get install freetds-dev
+sudo pip3 install pymssql
