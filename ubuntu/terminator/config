@@ -1,0 +1,20 @@
+[global_config]
+  enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  title_transmit_bg_color = "#d257e9"
+  suppress_multiple_term_dialog = True
+  inactive_color_offset = 0.4
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 1.13
+    background_image = None
+    custom_command = fish
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
