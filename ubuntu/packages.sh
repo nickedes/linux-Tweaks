@@ -119,3 +119,7 @@ sudo apt-get install zsh-doc;
 
 sudo apt-get install freetds-dev
 sudo pip3 install pymssql
+# Vlc (updated)
+sudo add-apt-repository ppa:mc3man/trusty-media
+sudo apt-get update
+sudo apt-get install vlc vlc-plugin-*
