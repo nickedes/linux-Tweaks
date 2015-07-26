@@ -123,3 +123,6 @@ sudo pip3 install pymssql
 sudo add-apt-repository ppa:mc3man/trusty-media
 sudo apt-get update
 sudo apt-get install vlc vlc-plugin-*
+
+# Tree is a recursive directory listing command that produces a depth indented listing of files
+sudo apt-get install tree
