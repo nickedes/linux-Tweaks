@@ -126,3 +126,6 @@ sudo apt-get install vlc vlc-plugin-*
 
 # Tree is a recursive directory listing command that produces a depth indented listing of files
 sudo apt-get install tree
+
+#git
+sudo apt-get install git
