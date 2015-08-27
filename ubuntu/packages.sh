@@ -129,3 +129,9 @@ sudo apt-get install tree
 
 #git
 sudo apt-get install git
+# for python3 under a venv
+pip install scipy
+pip install matplotlib
+pip install pandas
+pip install "ipython[notebook]" 
+pip install statsmodels
