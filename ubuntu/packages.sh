@@ -135,3 +135,5 @@ pip install matplotlib
 pip install pandas
 pip install "ipython[notebook]" 
 pip install statsmodels
+pip install sklearn
+pip install kmeans
