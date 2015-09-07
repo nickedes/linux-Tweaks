@@ -17,3 +17,8 @@ alias gchm="git checkout master"
 
 #Update fork
 alias gfu="git fetch upstream && git rebase upstream/master"
+
+# lyrics
+alias ly="osdlyrics"
+# shutter
+alias pic="shutter"
