@@ -22,3 +22,8 @@ alias gfu="git fetch upstream && git rebase upstream/master"
 alias ly="osdlyrics"
 # shutter
 alias pic="shutter"
+
+# Python alias
+alias py="python"
+alias py2="python2"
+alias py3="python3"
