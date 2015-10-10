@@ -27,3 +27,8 @@ alias pic="shutter"
 alias py="python"
 alias py2="python2"
 alias py3="python3"
+
+# git bisect
+alias gbr="git bisect reset"
+alias gbb="git bisect bad"
+alias gbg="git bisect good"
