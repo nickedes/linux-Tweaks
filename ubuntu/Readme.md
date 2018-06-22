@@ -1,7 +1,7 @@
-#Ubuntu 14.04
+Ubuntu 14.04
 
 packages.sh : Contains list of all the installed packages.
 
-#Todo
+Todo:
 
 Add my dotfiles. :wink:
